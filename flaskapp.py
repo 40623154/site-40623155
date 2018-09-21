@@ -1959,7 +1959,7 @@ def ssavePage():
         return redirect("/")
 
 
-def syntaxhighlight():
+    def syntaxhighlight():
     return '''
 <script type="text/javascript" src="/static/syntaxhighlighter/shCore.js"></script>
 <script type="text/javascript" src="/static/syntaxhighlighter/shBrushJScript.js"></script>
@@ -2001,6 +2001,10 @@ def syntaxhighlight():
 <script type="text/javascript" src="/static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+img {
+    border: 3px solid yellow;
+}
+</style>
 '''
 
 
@@ -2046,7 +2050,12 @@ init_mathjax();
 <script type="text/javascript" src="./../static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+img {
+    border: 3px solid yellow;
+}
+</style>
 '''
+
 
 
 def tinymce_editor(menu_input=None, editor_content=None, page_order=None):

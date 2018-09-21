@@ -905,7 +905,7 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 
 
 </t>
-<t tx="amd.20160714232059.1">def syntaxhighlight():
+<t tx="amd.20160714232059.1">    def syntaxhighlight():
     return '''
 &lt;script type="text/javascript" src="/static/syntaxhighlighter/shCore.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="/static/syntaxhighlighter/shBrushJScript.js"&gt;&lt;/script&gt;
@@ -947,6 +947,10 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script type="text/javascript" src="/static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+img {
+    border: 3px solid yellow;
+}
+&lt;/style&gt;
 '''
 
 
@@ -2467,7 +2471,12 @@ init_mathjax();
 &lt;script type="text/javascript" src="./../static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
+img {
+    border: 3px solid yellow;
+}
+&lt;/style&gt;
 '''
+
 
 
 </t>
