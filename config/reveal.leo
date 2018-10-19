@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -36,6 +36,9 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181005101013.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181005101013.2"><vh>iframe 導入影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -325,6 +328,21 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181005101013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181005101013.2">## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
