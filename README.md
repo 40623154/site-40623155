@@ -8,9 +8,9 @@ http://mdecourse.github.io/2018fall/
 
 網站:https://mdecadp2018.github.io/site-40623155/content/index.html
 
-簡報:https://mdecadp2018.github.io/site-scrum-2/reveal/index.html#/
+簡報:https://mdecadp2018.github.io/site-40623155/reveal/index.html#/
 
-Blog:https://mdecadp2018.github.io/site-scrum-2/blog/index.html
+Blog:https://mdecadp2018.github.io/site-40623155/blog/index.html
 
 -----------------------------------------------------------------------------
 
