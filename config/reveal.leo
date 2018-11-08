@@ -313,7 +313,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+2018 Fall 40623155 網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -428,7 +428,9 @@ make.start()
 1.學會管理作業倉儲
 2.利用 git checkout 內的 master 分支切換到 gh-pages
 3.以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版.
-4.issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中</t>
+4.issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
+
+</t>
 <t tx="leo.20181102210841.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -441,7 +443,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181102210841.5"># 本週心得
-這次的課程是教導我們如何使用之前沒用過的 ShareX 其他指令及 Zoomit 放大功能，還有領取個人的倉儲，將自己所學習到的資料在期中前，陸陸續續地放到網誌、網站和部落格，跟大家分享。我希望我可以在有限的時間更新並掌握自己的學習進度，才不會在學期結束後發現什麼都沒學到，儘管發現忘記之前所學的，也能從自己的網誌中找出需要的答案。</t>
+這次的課程是教導我們如何使用之前沒用過的 ShareX 其他指令及 Zoomit 放大功能，還有領取個人的倉儲，將自己所學習到的資料在期中前，陸陸續續地放到網誌、網站和部落格，跟大家分享。我希望我可以在有限的時間更新並掌握自己的學習進度，才不會在學期結束後發現什麼都沒學到，儘管發現忘記之前所學的，也能從自己的網誌中找出需要的答案。
+
+</t>
 <t tx="leo.20181102212342.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -497,7 +501,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181102212625.3"># 第三週課程內容
-Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。</t>
+Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。
+
+</t>
 <t tx="leo.20181102212625.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -510,7 +516,9 @@ Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人�
 						
 </t>
 <t tx="leo.20181102212625.5"># 本週心得
-Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。</t>
+Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。
+
+</t>
 <t tx="leo.20181102212926.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -530,7 +538,9 @@ Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人�
 <t tx="leo.20181102212926.3"># 第四週課程內容
 Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
 解決Cmsimfly 的錯誤
-維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容</t>
+維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
+
+</t>
 <t tx="leo.20181102212926.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -565,7 +575,9 @@ Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字
 <t tx="leo.20181102212928.3"># 第五週課程內容
 Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
 解決Cmsimfly 的錯誤
-維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容</t>
+維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
+
+</t>
 <t tx="leo.20181102212928.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -606,7 +618,9 @@ Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字
 
 4.如何更新CMSimfly
 
-5.利用lab-booking-cdlab說明管理內容流程</t>
+5.利用lab-booking-cdlab說明管理內容流程
+
+</t>
 <t tx="leo.20181102212929.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -645,7 +659,9 @@ github遠端故障
 
 解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法
 
-例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結</t>
+例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結
+
+</t>
 <t tx="leo.20181102212932.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -679,7 +695,9 @@ github遠端故障
 </t>
 <t tx="leo.20181102212936.3"># 第八週課程內容
 複習前幾週內容，並著手整理手中資訊，並加以編輯排版
-在課堂上操作，並立即地解決當下問題，有疑問馬上向老師詢問。</t>
+在課堂上操作，並立即地解決當下問題，有疑問馬上向老師詢問。
+
+</t>
 <t tx="leo.20181102212936.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -695,6 +713,8 @@ github遠端故障
 今天發生了檔案更改數量多導致網頁崩解問題
 也發生了插入圖片網頁掛掉的問題
 請教老師後發現是舊版本(bug)
-更新到新版本可以解決這問題。</t>
+更新到新版本可以解決這問題。
+
+</t>
 </tnodes>
 </leo_file>
